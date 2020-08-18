@@ -1,7 +1,7 @@
 # Barchart-SwiftUI
 Barchart-SwiftUI is easy and customizable chart. 
 
-### Current Features
+#### Current Features
 - Works for both horizontal and vertical bar charts.
 - Barchart with actual data
 - Customizable - color, style and type, etc
